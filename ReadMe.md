@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de ADS/ Front End/ Back End/ JS/ Python/ Linguagem Programação.<br>Estou a procura de uma oportunidade de estágio e de aprendizado.<br>
+Sou estudante de ADS/ Front End/ Back End/ JS/ Python/ Linguagem Programação.<br>Estou a procura de uma oportunidade de estágio e aprendizado.<br>
 
 
 # 💻 Tech Stack:
