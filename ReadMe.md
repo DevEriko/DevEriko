@@ -1,4 +1,4 @@
-# 💫 About Me:
+### Olá! Eu sou Ériko 
 Sou estudante de ADS/ Front End/ Back End/ JS/ Python/ Linguagem Programação.<br>Estou a procura de uma oportunidade de estágio e aprendizado.<br>
 
 
