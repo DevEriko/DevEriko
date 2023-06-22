@@ -6,9 +6,8 @@
     
 <div>
     <a href="https://github.com/DevEriko">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevEriko&show_icons-true&theme=midnight-purple&inclube_all_commits=true&count_private=true"/>
-    <img heigth="180em" src="https://wa.me/<seunúmero-https://github-readme-stats.vercel.app/api/top-langs/?username=DevEriko&layout=compact&langs_count=16&theme=midnight-purple"/>
- </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevEriko&show_icons=true&theme=midnight-purple&inclube_all_commits=true&count_private=true"/>
+     </div>
         ## Tecnologias que estou aprendendo
     <div style="display: inline_block"><br>
         <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
