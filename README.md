@@ -18,7 +18,7 @@ Meu objetivo é garantir a qualidade de software com excelência e criar soluç�
 
 
 ## Sobre mim
-Sou desenvolvedor **Python**, muito disciplinado, com foco e determinação em **Back-end**, **QA** e automação de testes. 
+Sou desenvolvedor **Python** e **JavaScript** muito disciplinado, com foco e determinação em **Back-end**, **QA** e automação de testes. 
 Quero apenas uma oportunidade para aplicar minhas habilidades e continuar meu desenvolvendo tanto profissional quanto pessoal. 🌱  
 
 Atualmente:  
