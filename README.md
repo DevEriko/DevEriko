@@ -1,5 +1,5 @@
 # Olá! 👋  
-Sou Ériko, desenvolvedor em **Python** e **QA**, apaixonado por tecnologia e automação.  
+Sou Ériko, ** Analista de testes de software **, apaixonado por tecnologia e automação.  
 Meu objetivo é garantir a qualidade de software com excelência e criar soluções inteligentes e rentáveis. 🚀  
 
 ![DevEriko GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEriko&theme=midnight-purple&show_icons=true)
@@ -18,19 +18,19 @@ Meu objetivo é garantir a qualidade de software com excelência e criar soluç�
 
 
 ## Sobre mim
-Sou desenvolvedor **Python** e **JavaScript** muito disciplinado, com foco e determinação em **Back-end**, **QA** e automação de testes. 
-Quero apenas uma oportunidade para aplicar minhas habilidades e continuar meu desenvolvendo tanto profissional quanto pessoal. 🌱  
+Sou um QA muito disciplinado, com foco e determinação em **JavaScript**, **QA** e automação de testes. 
+Quero apenas uma oportunidade para aplicar minhas habilidades e continuar meu desenvolvendo profissional. 🌱  
 
 Atualmente:  
 - Formado em **Administração de Empresas**.  
 - Cursando **Análise e Desenvolvimento de Sistemas**.  
-- Buscando uma oportunidade que me permita aplicar minha disciplina, aprendizado contínuo e habilidades técnicas para impulsionar meu crescimento profissional e agregar valor significativo aos projetos e à equipe.  
+- Busco manter sempre a qualidade dos produtos permitindo aplicar minha disciplina, aprendizado contínuo e habilidades técnicas para impulsionar meu crescimento profissional e agregar valor significativo aos projetos e à equipe.  
 
 ---
 
 ### 💼 Experiência
 
-- **Desenvolvimento**: Experiência em **Python**, **MySQL**, **Flask** e **Django**, com foco na criação de aplicações web e scripts de automação.
-- **QA / Automação de Testes**: Automação com **Cypress**, **Cucumber** e outras ferramentas de qualidade de software.    
+- **QA / Automação de Testes** utilizando JavaScript: Automação com **Cypress**, **Cucumber** e outras ferramentas de qualidade de software.    
+- **Desenvolvimento**: Experiência em **Python**, **MySQL**, **Flask**, com foco na criação de APIs, aplicações web e scripts de automação.
 - **Hardware**: Experiência em **testes de hardware**, criação de **planos de teste** e **otimização de processos** para eficiência e redução de custos.  
 - **Gestão e Administração**: Atuação com **gestão financeira**, **marketing** e **relacionamento com clientes e fornecedores**.
