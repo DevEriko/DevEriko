@@ -1,5 +1,5 @@
 # Olá! 👋  
-Sou Ériko, ** Analista de testes de software **, apaixonado por tecnologia e automação.  
+Sou Ériko, **Analista de testes de software**, apaixonado por tecnologia e automação.  
 Meu objetivo é garantir a qualidade de software com excelência e criar soluções inteligentes e rentáveis. 🚀  
 
 ![DevEriko GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEriko&theme=midnight-purple&show_icons=true)
